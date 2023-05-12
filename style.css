@@ -1,0 +1,41 @@
+header{
+    background-color: aqua;
+    color: white;
+}
+body{
+    font-family: cursive;
+    color: white;
+}
+nav{
+    background-color: blue;
+    margin-top: -20px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+a{
+    color:white;
+}
+#selected{
+    background-color: lightblue;
+}
+#div1{
+    width: 30%;
+    height: 350px;
+    background-color: palevioletred;
+    display: inline-block;
+}
+#div2{
+    width: 90%;
+    height: 250px;
+}
+#id4{
+    width: 70%;
+    height: 400px;
+    background-color: plum;
+}
+p{
+    color: blue;
+    margin-top: 15px;
+}
